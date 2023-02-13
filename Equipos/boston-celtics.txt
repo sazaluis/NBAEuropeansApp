@@ -1,0 +1,16 @@
+marcus-smart: {'Flower Mound, TX', 'US'}
+malcolm-brogdon: {'Atlanta, GA', 'US'}
+mfiondu-kabengele: {'Burlington, ON', 'NULL'}
+robert-williams-iii: {'Shreveport, LA', 'US'}
+luke-kornet: {'Lantana, TX', 'US'}
+grant-williams: {'Charlotte, NC', 'US'}
+sam-hauser: {'Stevens Point, WI', 'US'}
+al-horford: {'Puerto Plata, República Dominicana', 'NULL'}
+jayson-tatum: {'Saint Louis, MO', 'US'}
+danilo-gallinari: {'Sant'Angelo Lodigiano, Italia', 'EU'}
+blake-griffin: {'Oklahoma City, OK', 'US'}
+mike-muscala: {'Saint Louis Park, MN', 'NULL'}
+derrick-white: {'Parker, CO', 'US'}
+payton-pritchard: {'West Linn, OR', 'US'}
+jaylen-brown: {'Marietta, GA', 'US'}
+jd-davison: {'Letohatchee, AL', 'NULL'}

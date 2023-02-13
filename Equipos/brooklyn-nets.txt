@@ -1,0 +1,16 @@
+spencer-dinwiddie: {'Woodland Hills, CA', 'NULL'}
+dayron-sharpe: {'Greenville, NC', 'US'}
+dru-smith: {'Evansville, IN', 'US'}
+yuta-watanabe: {'Kagawa, Japón', 'AS'}
+patty-mills: {'Canberra, ACT', 'NULL'}
+nic-claxton: {'Greenville, SC', 'US'}
+joe-harris: {'Chelan, WA', 'US'}
+royce-oneale: {'Killeen, TX', 'US'}
+ben-simmons: {'VIC, VIC', 'NULL'}
+cam-thomas: {'Chesapeake, VA', 'US'}
+mikal-bridges: {'Malvern, PC', 'NULL'}
+dorian-finney-smith: {'Portsmouth, VA', 'US'}
+edmond-sumner: {'Detroit, MI', 'US'}
+cameron-johnson: {'Moon Township, PC', 'NULL'}
+seth-curry: {'Charlotte, NC', 'US'}
+david-duke-jr: {'Providence, RI', 'US'}

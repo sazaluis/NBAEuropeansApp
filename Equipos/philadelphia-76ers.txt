@@ -1,0 +1,16 @@
+louis-king: {'Secaucus, NJ', 'US'}
+julian-champagnie: {'Brooklyn, NY', 'US'}
+james-harden: {'Los Ángeles, CA', 'NULL'}
+tobias-harris: {'Dix Hills, NY', 'US'}
+montrezl-harrell: {'Tarboro, NC', 'US'}
+furkan-korkmaz: {'Bakirkoy, Turquía', 'NULL'}
+georges-niang: {'Methuen, MA', 'NULL'}
+joel-embiid: {'Yaounde, Camerún', 'AF'}
+shake-milton: {'Owasso, OK', 'US'}
+jaden-springer: {'Charlotte, NC', 'US'}
+tyrese-maxey: {'Garland, TX', 'US'}
+pj-tucker: {'Raleigh, NC', 'US'}
+jalen-mcdaniels: {'Federal Way, WA', 'US'}
+deanthony-melton: {'North Hollywood, CA', 'NULL'}
+danuel-house-jr: {'Fresno, TX', 'US'}
+paul-reed: {'Orlando, FL', 'US'}

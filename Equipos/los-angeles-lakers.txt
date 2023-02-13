@@ -1,0 +1,16 @@
+austin-reaves: {'Newark, AR', 'US'}
+anthony-davis: {'Chicago, IL', 'US'}
+troy-brown-jr: {'Las Vegas, NV', 'US'}
+wenyen-gabriel: {'Manchester, NH', 'US'}
+lebron-james: {'Akron, OH', 'US'}
+scotty-pippen-jr: {'Los Ángeles, CA', 'NULL'}
+davon-reed: {'Ewing, NJ', 'NULL'}
+mo-bamba: {'Harlem, NY', 'NULL'}
+dennis-schroder: {'Braunschweig, Alemania', 'NULL'}
+malik-beasley: {'Atlanta, GA', 'US'}
+dangelo-russell: {'Louisville, KY', 'US'}
+max-christie: {'Arlington Heights, IL', 'US'}
+rui-hachimura: {'Toyama, Japón', 'AS'}
+lonnie-walker-iv: {'Reading, PC', 'NULL'}
+jarred-vanderbilt: {'Houston, TX', 'US'}
+cole-swider: {'Portsmouth, RI', 'NULL'}

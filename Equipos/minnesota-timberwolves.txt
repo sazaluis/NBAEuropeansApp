@@ -1,0 +1,17 @@
+nathan-knight: {'Syracuse, NY', 'US'}
+josh-minott: {'Boca Raton, FL', 'US'}
+anthony-edwards: {'Atlanta, GA', 'US'}
+naz-reid: {'Asbury Park, NJ', 'US'}
+wendell-moore-jr: {'Charlotte, NC', 'US'}
+jaylen-nowell: {'Seattle, WA', 'US'}
+austin-rivers: {'Winter Park, FL', 'US'}
+matt-ryan: {'Cortlandt Manor, NY', 'NULL'}
+jaden-mcdaniels: {'Seattle, WA', 'US'}
+mike-conley: {'Indianapolis, IN', 'US'}
+karl-anthony-towns: {'Edison, NJ', 'NULL'}
+jordan-mclaughlin: {'Etiwanda, CA', 'NULL'}
+nickeil-alexander-walker: {'Toronto, ON', 'NULL'}
+taurean-prince: {'San Marcos, TX', 'US'}
+luka-garza: {'Washington, DC', 'US'}
+kyle-anderson: {'Fairview, NJ', 'US'}
+rudy-gobert: {'Francia', 'EU'}

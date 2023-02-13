@@ -1,0 +1,17 @@
+dwight-powell: {'Toronto, ON', 'NULL'}
+markieff-morris: {'Philadelphia, PC', 'NULL'}
+theo-pinson: {'Greensboro, NC', 'US'}
+frank-ntilikina: {'Ixelles, Bélgica', 'NULL'}
+jaden-hardy: {'Henderson, NV', 'US'}
+josh-green: {'Sydney, NSW', 'NULL'}
+reggie-bullock: {'Baltimore, MD', 'US'}
+kyrie-irving: {'VIC, VIC', 'NULL'}
+aj-lawson: {'Brampton, ON', 'NULL'}
+chris-silva: {'Libreville, Gabón', 'AF'}
+mckinley-wright-iv: {'North Robbinsdale, MN', 'NULL'}
+luka-doncic: {'Ljubljana, Eslovenia', 'NULL'}
+davis-bertans: {'Letonia', 'EU'}
+tim-hardaway-jr: {'Alameda, CA', 'US'}
+christian-wood: {'Palmdale, CA', 'US'}
+javale-mcgee: {'Flint, MI', 'US'}
+maxi-kleber: {'Wurzburg, Alemania', 'NULL'}

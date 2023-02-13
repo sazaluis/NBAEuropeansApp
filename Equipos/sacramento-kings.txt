@@ -1,0 +1,18 @@
+davion-mitchell: {'Hinesville, GA', 'US'}
+pj-dozier: {'Columbia, SC', 'US'}
+matthew-dellavedova: {'Maryborough, VIC', 'NULL'}
+keegan-murray: {'Cedar Rapids, IA', 'US'}
+alex-len: {'Antratsit, Ucrania', 'EU'}
+chimezie-metu: {'Lawndale, CA', 'US'}
+trey-lyles: {'Indianapolis, IN', 'US'}
+deaaron-fox: {'Houston, TX', 'US'}
+neemias-queta: {'Barreiro, Portugal', 'EU'}
+keon-ellis: {'Eustis, FL', 'US'}
+malik-monk: {'Lepanto, AR', 'US'}
+kessler-edwards: {'Rancho Cucamonga, CA', 'US'}
+harrison-barnes: {'Ames, IA', 'US'}
+terence-davis: {'Southaven, MS', 'US'}
+richaun-holmes: {'Lockport, IL', 'US'}
+kz-okpala: {'Orange County, CA', 'NULL'}
+kevin-huerter: {'Albany, NY', 'US'}
+domantas-sabonis: {'Kaunas, Lituania', 'NULL'}

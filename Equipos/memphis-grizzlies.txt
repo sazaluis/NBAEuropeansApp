@@ -1,0 +1,17 @@
+desmond-bane: {'Richmond, IN', 'US'}
+john-konchar: {'West Chicago, IL', 'US'}
+steven-adams: {'Rotorua, Nueva Zelanda', 'NULL'}
+jake-laravia: {'Indianapolis, IN', 'US'}
+jaren-jackson-jr: {'Plainfield, NJ', 'US'}
+luke-kennard: {'Middletown, OH', 'US'}
+dillon-brooks: {'Mississauga, ON', 'NULL'}
+tyus-jones: {'Burnsville, MN', 'US'}
+brandon-clarke: {'Vancouver, BC', 'NULL'}
+xavier-tillman: {'Grand Rapids, MI', 'US'}
+vince-williams-jr: {'Toledo, OH', 'US'}
+santi-aldama: {'Las Palmas De Gas, España', 'EU'}
+ziaire-williams: {'Lancaster, CA', 'US'}
+kenneth-lofton-jr: {'Port Arthur, TX', 'US'}
+kennedy-chandler: {'Memphis, TN', 'US'}
+david-roddy: {'Minneapolis, MN', 'US'}
+ja-morant: {'Dalzell, SC', 'US'}

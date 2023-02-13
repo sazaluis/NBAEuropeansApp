@@ -1,0 +1,17 @@
+nerlens-noel: {'Malden, MA', 'US'}
+bojan-bogdanovic: {'Yugoslavia', 'NULL'}
+isaiah-stewart: {'Rochester, NY', 'US'}
+cory-joseph: {'Henderson, NV', 'US'}
+cade-cunningham: {'Arlington, TX', 'US'}
+jared-rhoden: {'Baldwin, NY', 'US'}
+killian-hayes: {'Lakeland, FL', 'US'}
+rodney-mcgruder: {'Landover, MD', 'US'}
+jalen-duren: {'Sharon Hill, PC', 'NULL'}
+marvin-bagley-iii: {'Phoenix, AZ', 'US'}
+james-wiseman: {'Nashville, TN', 'US'}
+isaiah-livers: {'Kalamazoo, MI', 'US'}
+alec-burks: {'Grandview, MO', 'US'}
+buddy-boeheim: {'Fayetteville, NY', 'US'}
+stanley-umude: {'San Antonio, TX', 'US'}
+hamidou-diallo: {'Queens, NY', 'US'}
+jaden-ivey: {'South Bend, IN', 'US'}

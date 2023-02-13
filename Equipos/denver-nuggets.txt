@@ -1,0 +1,16 @@
+ish-smith: {'Concord, NC', 'US'}
+bruce-brown: {'Boston, MA', 'US'}
+vlatko-cancar: {'Koper, Eslovenia', 'NULL'}
+collin-gillespie: {'Huntingdon Valley, PC', 'NULL'}
+michael-porter-jr: {'Columbia, MO', 'US'}
+jack-white: {'Traralgon, VIC', 'NULL'}
+zeke-nnaji: {'Lakeville, MN', 'US'}
+thomas-bryant: {'Rochester, NY', 'US'}
+deandre-jordan: {'Houston, TX', 'US'}
+peyton-watson: {'Long Beach, CA', 'US'}
+nikola-jokic: {'Sombor, Serbia', 'EU'}
+jeff-green: {'Hyattsville, MD', 'US'}
+aaron-gordon: {'San José, CA', 'NULL'}
+kentavious-caldwell-pope: {'Thomaston, GA', 'US'}
+jamal-murray: {'Kitchener, ON', 'NULL'}
+christian-braun: {'Burlington, KS', 'US'}

@@ -1,0 +1,16 @@
+bam-adebayo: {'Newark, NJ', 'US'}
+gabe-vincent: {'Modesto, CA', 'US'}
+jamal-cain: {'Pontiac, MI', 'US'}
+jimmy-butler: {'Houston, TX', 'US'}
+tyler-herro: {'Milwaukee, WI', 'US'}
+caleb-martin: {'Mocksville, NC', 'US'}
+omer-yurtseven: {'Uzbekistán', 'AS'}
+victor-oladipo: {'Silver Spring, MD', 'US'}
+max-strus: {'Hickory Hills, IL', 'US'}
+udonis-haslem: {'Miami, FL', 'US'}
+haywood-highsmith: {'Baltimore, MD', 'US'}
+kyle-lowry: {'Philadelphia, PC', 'NULL'}
+jamaree-bouyea: {'Seaside, CA', 'US'}
+duncan-robinson: {'York, ME', 'NULL'}
+orlando-robinson: {'Las Vegas, NV', 'US'}
+nikola-jovic: {'No data', 'NULL'}

@@ -1,0 +1,17 @@
+garrett-temple: {'Baton Rouge, LA', 'US'}
+herbert-jones: {'Greensboro, AL', 'US'}
+zion-williamson: {'Salisbury, NC', 'US'}
+ej-liddell: {'Belleville, IL', 'US'}
+cj-mccollum: {'Cantón, OH', 'NULL'}
+larry-nance-jr: {'Akron, OH', 'US'}
+dereon-seabron: {'Norfolk, VA', 'US'}
+jaxson-hayes: {'Norman, OK', 'US'}
+brandon-ingram: {'Kinston, NC', 'US'}
+josh-richardson: {'Edmond, OK', 'US'}
+kira-lewis-jr: {'Meridianville, AL', 'US'}
+trey-murphy-iii: {'Durham, NC', 'US'}
+naji-marshall: {'Atlantic City, NJ', 'US'}
+dyson-daniels: {'Bendigo, VIC', 'NULL'}
+jonas-valanciunas: {'Utena, Lituania', 'EU'}
+jose-alvarado: {'Brooklyn, NY', 'US'}
+willy-hernangomez: {'Madrid, España', 'EU'}

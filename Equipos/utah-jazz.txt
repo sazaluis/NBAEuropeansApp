@@ -1,0 +1,16 @@
+juan-toscano-anderson: {'Oakland, CA', 'US'}
+kelly-olynyk: {'Toronto, ON', 'NULL'}
+johnny-juzang: {'Tarzana, CA', 'NULL'}
+ochai-agbaji: {'Kansas City, MO', 'US'}
+damian-jones: {'Baton Rouge, LA', 'US'}
+talen-horton-tucker: {'Chicago, IL', 'US'}
+collin-sexton: {'Marietta, GA', 'US'}
+micah-potter: {'Mentor, OH', 'US'}
+walker-kessler: {'Newnan, GA', 'US'}
+simone-fontecchio: {'L'aquila, Italia', 'EU'}
+rudy-gay: {'Baltimore, MD', 'US'}
+leandro-bolmaro: {'Buenos Aires, Argentina', 'SA'}
+lauri-markkanen: {'Jyvaskyla, Finlandia', 'NULL'}
+jordan-clarkson: {'San Antonio, TX', 'US'}
+udoka-azubuike: {'Delta, Nigeria', 'AF'}
+russell-westbrook: {'Long Beach, CA', 'US'}

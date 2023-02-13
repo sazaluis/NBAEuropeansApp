@@ -1,0 +1,17 @@
+daniel-gafford: {'El Dorado, AR', 'US'}
+bradley-beal: {'Saint Louis, MO', 'US'}
+jordan-goodwin: {'Centreville, IL', 'US'}
+anthony-gill: {'High Point, NC', 'US'}
+vernon-carey-jr: {'Southwest Ranches, FL', 'US'}
+quenton-jackson: {'Los Ángeles, CA', 'NULL'}
+taj-gibson: {'Brooklyn, NY', 'US'}
+deni-avdija: {'Tel Aviv, Israel', 'AS'}
+monte-morris: {'Grand Rapids, MI', 'US'}
+delon-wright: {'Los Ángeles, CA', 'NULL'}
+kristaps-porzingis: {'Liepaja, Letonia', 'NULL'}
+kyle-kuzma: {'Flint, MI', 'US'}
+will-barton: {'Baltimore, MD', 'US'}
+kendrick-nunn: {'Chicago, IL', 'US'}
+corey-kispert: {'Edmonds, WA', 'US'}
+isaiah-todd: {'Baltimore, MD', 'US'}
+johnny-davis: {'La Crosse, WI', 'US'}

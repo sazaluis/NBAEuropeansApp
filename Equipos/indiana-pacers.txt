@@ -1,0 +1,20 @@
+myles-turner: {'Bedford, TX', 'US'}
+oshae-brissett: {'Mississauga, ON', 'NULL'}
+trevelin-queen: {'Glen Burnie, MD', 'US'}
+bennedict-mathurin: {'Montreal, PQ', 'NULL'}
+goga-bitadze: {'Sagarejo, Georgia', 'AS'}
+aaron-nesmith: {'Charleston, SC', 'US'}
+george-hill: {'Indianapolis, IN', 'US'}
+jalen-smith: {'Baltimore, MD', 'US'}
+andrew-nembhard: {'Aurora, ON', 'NULL'}
+tyrese-haliburton: {'Oshkosh, WI', 'US'}
+tj-mcconnell: {'Pittsburgh, PC', 'NULL'}
+james-johnson: {'Cheyenne, WY', 'US'}
+buddy-hield: {'Freeport, GB', 'NULL'}
+serge-ibaka: {'Brazzaville, Congo', 'AF'}
+daniel-theis: {'Salzgitter, Alemania', 'NULL'}
+kendall-brown: {'Cottage Grove, MN', 'US'}
+chris-duarte: {'Puerto Plata, República Dominicana', 'NULL'}
+isaiah-jackson: {'Pontiac, MI', 'US'}
+jordan-nwora: {'Buffalo, NY', 'US'}
+terry-taylor: {'Bowling Green, KY', 'US'}

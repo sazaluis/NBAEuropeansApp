@@ -1,0 +1,16 @@
+dalano-banton: {'Toronto, ON', 'NULL'}
+precious-achiuwa: {'Queens, NY', 'US'}
+jeff-dowtin-jr: {'Upper Marlboro, MD', 'US'}
+malachi-flynn: {'Tacoma, WA', 'US'}
+ron-harper-jr: {'Franklin Lakes, NJ', 'US'}
+scottie-barnes: {'West Palm Beach, FL', 'US'}
+thaddeus-young: {'New Orleans, LA', 'US'}
+jakob-poeltl: {'Viena, Austria', 'EU'}
+christian-koloko: {'Douala, Camerún', 'AF'}
+pascal-siakam: {'Douala, Camerún', 'AF'}
+otto-porter-jr: {'Saint Louis, MO', 'US'}
+juancho-hernangomez: {'Madrid, España', 'EU'}
+chris-boucher: {'Montreal, PQ', 'NULL'}
+fred-vanvleet: {'Rockford, IL', 'US'}
+gary-trent-jr: {'Columbus, OH', 'US'}
+og-anunoby: {'Jefferson City, MO', 'US'}

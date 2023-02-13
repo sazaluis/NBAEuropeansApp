@@ -1,0 +1,16 @@
+pj-washington: {'Louisville, KY', 'US'}
+mark-williams: {'Virginia Beach, VA', 'US'}
+lamelo-ball: {'Chino Hills, CA', 'US'}
+theo-maledon: {'Paris, Francia', 'EU'}
+terry-rozier: {'Youngstown, OH', 'US'}
+gordon-hayward: {'Brownsburg, IN', 'US'}
+nick-richards: {'Kingston, Jamaica', 'NA'}
+jt-thor: {'Anchorage, AK', 'US'}
+svi-mykhailiuk: {'Cherkasy, Ucrania', 'NULL'}
+james-bouknight: {'Brooklyn, NY', 'US'}
+kelly-oubre-jr: {'Henderson, NV', 'US'}
+reggie-jackson: {'Pordenone, Italia', 'EU'}
+dennis-smith-jr: {'Fayetteville, NC', 'US'}
+bryce-mcgowens: {'Pendleton, SC', 'US'}
+cody-martin: {'Mocksville, NC', 'US'}
+kai-jones: {'Nassau, Bahamas', 'NA'}

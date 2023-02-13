@@ -1,0 +1,15 @@
+landry-shamet: {'Kansas City, MO', 'US'}
+damion-lee: {'Baltimore, MD', 'US'}
+jock-landale: {'E Malvern, VIC', 'NULL'}
+ish-wainright: {'Kansas City, MO', 'US'}
+tj-warren: {'Durham, NC', 'US'}
+chris-paul: {'Winston-salem, NC', 'NULL'}
+saben-lee: {'Phoenix, AZ', 'US'}
+kevin-durant: {'Suitland, MD', 'US'}
+josh-okogie: {'Lagos, Nigeria', 'AF'}
+cameron-payne: {'Bartlett, TN', 'US'}
+torrey-craig: {'Columbia, SC', 'US'}
+devin-booker: {'Grand Rapids, MI', 'US'}
+deandre-ayton: {'Nassau, Bahamas', 'NA'}
+bismack-biyombo: {'Lubumbashi, Congo', 'AF'}
+darius-bazley: {'Boston, MA', 'US'}

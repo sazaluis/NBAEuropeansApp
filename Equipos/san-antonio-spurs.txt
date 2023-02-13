@@ -1,0 +1,17 @@
+devonte-graham: {'Raleigh, NC', 'US'}
+stanley-johnson: {'Fullerton, CA', 'US'}
+khem-birch: {'Montreal, PQ', 'NULL'}
+charles-bassey: {'Lagos, Nigeria', 'AF'}
+devin-vassell: {'Suwanee, GA', 'US'}
+isaiah-roby: {'Dixon, IL', 'US'}
+gorgui-dieng: {'Kebemer, Senegal', 'AF'}
+keldon-johnson: {'South Hill, VA', 'US'}
+romeo-langford: {'New Albany, IN', 'US'}
+jeremy-sochan: {'Milton Keynes, Inglaterra', 'NULL'}
+keita-bates-diop: {'Sacramento, CA', 'US'}
+malaki-branham: {'Columbus, OH', 'US'}
+doug-mcdermott: {'Grand Forks, ND', 'US'}
+blake-wesley: {'South Bend, IN', 'US'}
+zach-collins: {'Las Vegas, NV', 'US'}
+dominick-barlow: {'No data', 'NULL'}
+tre-jones: {'Apple Valley, MN', 'US'}

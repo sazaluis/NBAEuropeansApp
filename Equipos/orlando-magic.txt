@@ -1,0 +1,17 @@
+paolo-banchero: {'Seattle, WA', 'US'}
+markelle-fultz: {'Upper Marlboro, MD', 'US'}
+chuma-okeke: {'Atlanta, GA', 'US'}
+moritz-wagner: {'Berlin, Alemania', 'EU'}
+patrick-beverley: {'Chicago, IL', 'US'}
+jonathan-isaac: {'Naples, FL', 'US'}
+caleb-houstan: {'Mississauga, ON', 'NULL'}
+jalen-suggs: {'Saint Paul, MN', 'NULL'}
+wendell-carter-jr: {'Atlanta, GA', 'US'}
+bol-bol: {'Khartoum, Sudán', 'AF'}
+gary-harris: {'Fishers, IN', 'US'}
+terrence-ross: {'Portland, OR', 'US'}
+cole-anthony: {'Nueva York, NY', 'NULL'}
+admiral-schofield: {'Zion, IL', 'US'}
+kevon-harris: {'Ellenwood, GA', 'NULL'}
+franz-wagner: {'Berlin, Alemania', 'EU'}
+rj-hampton: {'Dallas, TX', 'US'}

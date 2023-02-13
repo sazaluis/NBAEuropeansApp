@@ -1,0 +1,17 @@
+patrick-williams: {'Charlotte, NC', 'US'}
+malcolm-hill: {'Fairview Heights, IL', 'US'}
+alex-caruso: {'College Station, TX', 'US'}
+tony-bradley: {'Bartow, FL', 'US'}
+demar-derozan: {'Compton, CA', 'US'}
+goran-dragic: {'Ljubljana, Eslovenia', 'NULL'}
+coby-white: {'Goldsboro, NC', 'US'}
+andre-drummond: {'Mount Vernon, NY', 'US'}
+javonte-green: {'Petersburg, VA', 'US'}
+carlik-jones: {'Cincinnati, OH', 'US'}
+derrick-jones-jr: {'Chester, PC', 'NULL'}
+zach-lavine: {'Seattle, WA', 'US'}
+marko-simonovic: {'Montenegro, Yugoslavia', 'NULL'}
+nikola-vucevic: {'Simi Valley, CA', 'US'}
+ayo-dosunmu: {'Chicago, IL', 'US'}
+lonzo-ball: {'Chino Hills, CA', 'US'}
+dalen-terry: {'Phoenix, AZ', 'US'}

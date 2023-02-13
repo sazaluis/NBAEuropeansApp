@@ -1,0 +1,15 @@
+bobby-portis: {'Little Rock, AR', 'US'}
+wesley-matthews: {'San Antonio, TX', 'US'}
+aj-green: {'Cedar Falls, IA', 'US'}
+thanasis-antetokounmpo: {'Atenas, Grecia', 'EU'}
+marjon-beauchamp: {'No data', 'NULL'}
+sandro-mamukelashvili: {'Tbilisi, Georgia', 'AS'}
+brook-lopez: {'North Hollywood, CA', 'NULL'}
+joe-ingles: {'Adelaide, SA', 'NULL'}
+khris-middleton: {'Charleston, SC', 'US'}
+grayson-allen: {'Jacksonville, FL', 'US'}
+jae-crowder: {'Villa Rica, GA', 'US'}
+pat-connaughton: {'Arlington, MA', 'NULL'}
+jevon-carter: {'Maywood, IL', 'US'}
+giannis-antetokounmpo: {'Atenas, Grecia', 'EU'}
+jrue-holiday: {'Chatsworth, CA', 'NULL'}

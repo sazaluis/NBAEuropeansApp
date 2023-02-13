@@ -1,0 +1,15 @@
+isaiah-hartenstein: {'Eugene, OR', 'US'}
+quentin-grimes: {'The Woodlands, TX', 'US'}
+jalen-brunson: {'New Brunswick, NJ', 'US'}
+derrick-rose: {'Chicago, IL', 'US'}
+josh-hart: {'Silver Spring, MD', 'US'}
+mitchell-robinson: {'Pensacola, FL', 'US'}
+jericho-sims: {'Minneapolis, MN', 'US'}
+evan-fournier: {'Francia', 'EU'}
+daquan-jeffries: {'Edmond, OK', 'US'}
+miles-mcbride: {'Cincinnati, OH', 'US'}
+immanuel-quickley: {'Havre De Grace, MD', 'NULL'}
+obi-toppin: {'Brooklyn, NY', 'US'}
+trevor-keels: {'Clinton, MD', 'US'}
+julius-randle: {'Dallas, TX', 'US'}
+rj-barrett: {'Toronto, ON', 'NULL'}

@@ -1,0 +1,17 @@
+isaiah-joe: {'Fort Smith, AR', 'US'}
+aaron-wiggins: {'Greensboro, NC', 'US'}
+jalen-williams: {'Gilbert, AZ', 'US'}
+kenrich-williams: {'Waco, TX', 'US'}
+justin-jackson: {'Tomball, TX', 'US'}
+aleksej-pokusevski: {'Sabac, Serbia', 'EU'}
+jaylin-williams: {'Fort Smith, AR', 'US'}
+dario-saric: {'Sibenik, Croacia', 'NULL'}
+ousmane-dieng: {'No data', 'NULL'}
+tre-mann: {'Gainesville, FL', 'US'}
+luguentz-dort: {'Montreal, PQ', 'NULL'}
+josh-giddey: {'No data', 'NULL'}
+lindy-waters-iii: {'Norman, OK', 'US'}
+chet-holmgren: {'Minneapolis, MN', 'US'}
+shai-gilgeous-alexander: {'Toronto, ON', 'NULL'}
+jeremiah-robinson-earl: {'Kansas City, KS', 'US'}
+eugene-omoruyi: {'Rexdale, ON', 'NULL'}

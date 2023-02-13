@@ -1,0 +1,16 @@
+draymond-green: {'Saginaw, MI', 'US'}
+andre-iguodala: {'Springfield, IL', 'US'}
+klay-thompson: {'Los Ángeles, CA', 'NULL'}
+ryan-rollins: {'Macomb, MI', 'NULL'}
+jordan-poole: {'Milwaukee, WI', 'US'}
+patrick-baldwin-jr: {'Sussex, WI', 'US'}
+kevon-looney: {'Milwaukee, WI', 'US'}
+moses-moody: {'Little Rock, AR', 'US'}
+andrew-wiggins: {'Thornhill, ON', 'NULL'}
+jonathan-kuminga: {'Goma, Democratic Republic of Congo', 'AF'}
+gary-payton-ii: {'Las Vegas, NV', 'US'}
+stephen-curry: {'Akron, OH', 'US'}
+ty-jerome: {'New Rochelle, NY', 'US'}
+jamychal-green: {'Montgomery, AL', 'US'}
+donte-divincenzo: {'Newark, DE', 'US'}
+anthony-lamb: {'Rochester, NY', 'US'}

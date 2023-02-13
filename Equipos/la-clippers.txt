@@ -1,0 +1,16 @@
+nicolas-batum: {'Lisieux, Francia', 'EU'}
+eric-gordon: {'Indianapolis, IN', 'US'}
+amir-coffey: {'Hopkins, MN', 'US'}
+kawhi-leonard: {'Los Ángeles, CA', 'NULL'}
+paul-george: {'Palmdale, CA', 'US'}
+terance-mann: {'Brooklyn, NY', 'US'}
+moses-brown: {'Queens, NY', 'US'}
+brandon-boston-jr: {'Norcross, GA', 'US'}
+marcus-morris-sr: {'Philadelphia, PC', 'NULL'}
+moussa-diabate: {'Paris, Francia', 'EU'}
+robert-covington: {'Bellwood, IL', 'US'}
+norman-powell: {'San Diego, CA', 'US'}
+jason-preston: {'Orlando, FL', 'US'}
+ivica-zubac: {'Mostar, Bosnia & Herzegovina', 'NULL'}
+bones-hyland: {'Wilmington, DE', 'US'}
+mason-plumlee: {'Fort Wayne, IN', 'US'}

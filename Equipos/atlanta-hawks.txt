@@ -1,0 +1,17 @@
+aaron-holiday: {'Chatsworth, CA', 'NULL'}
+onyeka-okongwu: {'Chino, CA', 'US'}
+clint-capela: {'Ginebra, Suiza', 'EU'}
+saddiq-bey: {'Largo, MD', 'US'}
+john-collins: {'West Palm Beach, FL', 'US'}
+jalen-johnson: {'Milwaukee, WI', 'US'}
+tyrese-martin: {'Allentown, PC', 'NULL'}
+donovan-williams: {'Houston, TX', 'US'}
+trae-young: {'Lubbock, TX', 'US'}
+aj-griffin: {'White Plains, NY', 'US'}
+deandre-hunter: {'Philadelphia, PC', 'NULL'}
+garrison-mathews: {'Franklin, TN', 'US'}
+bruno-fernando: {'Luanda, Angola', 'AF'}
+trent-forrest: {'Chipley, FL', 'US'}
+vit-krejci: {'República Checa', 'NULL'}
+dejounte-murray: {'Seattle, WA', 'US'}
+bogdan-bogdanovic: {'Belgrade, Serbia', 'EU'}

@@ -1,7 +1,7 @@
-import requests, re, urllib.parse
+import requests, re, urllib.parse,pandas as pd,checkContinent
 from bs4 import BeautifulSoup
-import re
-def checkTeams(url):
+
+def getTeams(url):
     response = requests.get(url)
     if response.status_code == 200:
         # Parseamos el contenido de la página web
@@ -38,34 +38,69 @@ def getPlayersUrl(url):
             modified_string = "/".join(split_string)
 
             new_url='https://'+parts[1]+modified_string
-
-
-
-
-            players.append(new_url)
+            #creo un diccionario con nombre de jugador y url
+            players.append({split_string[8]: new_url})
 
         players=eliminarDuplicados(players)
         return players
+    else:
+        # En caso de que la petición no haya sido exitosa, mostramos un mensaje de error
+        print('Error al buscar jugadores')
+#def getPlayerBio(url):
 
-def filterByCountry(players):
 
-    try:
-        players=players
-    except keyError:
-        return None
-def get_continent(country):
-        try:
-            country_info = pycountry.countries.get(name=country)
-            continent_code = country_info.region.split(" ")[0]
-            return pycountry.continents.get(code=continent_code).name
-        except KeyError:
-            return None
-def eliminarDuplicados(lista):
-    return list(set(lista))
+def filterByCountry(players,df):
+    players_by_country={}
+    for playerUrl in players:
+        for key, value in playerUrl.items():
+            #print(f"Clave: {key}, Valor: {value}")
+            #elimino simbolo '
+            response = requests.get(value)
+            if response.status_code == 200:
+                # Parseamos el contenido de la página web
+                soup = BeautifulSoup(response.content, 'html.parser')
+
+                card_bio = soup.find("section", {"class": "Card Bio"})
+                #hay jugadores que no tienen en su bio info de nacio en, asi que asignamos no data
+                try:
+                    born_in = card_bio.find("span", string="Nacido en").find_next("span").text
+                except:
+                    born_in = "No data"
+            else:
+                #En caso de que la petición no haya sido exitosa, mostramos un mensaje de error
+                key, value = next(iter(playerUrl.items()))
+                print('Error al buscar Bio del jugador'+value)
+        continent = checkContinent.get_continent_from_string(born_in, df)
+        players_by_country[key]=(born_in,continent)
+    return players_by_country
+
+def eliminarDuplicados(players):
+    lista_de_tuplas = [tuple(d.items()) for d in players]
+    lista_sin_duplicados = [dict(t) for t in set(lista_de_tuplas)]
+    return lista_sin_duplicados
+
+def guardar_lista_en_archivo(diccionario, nombre_archivo):
+    with open(nombre_archivo, "w") as archivo:
+        for clave, valor in diccionario.items():
+            try:
+                valor = list(valor)
+                archivo.write(f"{clave}: {{'{valor[0]}', '{valor[1]}'}}\n")
+
+            except:
+                raise LookupError(f"Error para{clave}: {{'{valor[0]}', '{valor[1]}'}}")
+
+
+
+
+# Logica de codigo abajo, funciones arriba
+
+#cargo listado de ciudades / estados de US
+# Cargar el archivo CSV en un DataFrame de pandas
+df = pd.read_csv("uscities.csv")
 
 # Hacemos una petición a la página web
 url = 'http://espndeportes.espn.com/basquetbol/nba/jugadores'
-links=checkTeams(url)
+links=getTeams(url)
 
 # # Filtrar los enlaces por el valor de su atributo href
 teams = [link for link in links if '/basquetbol/nba/equipo/_/nombre/' in link['href']]
@@ -86,5 +121,10 @@ for team in teams:
 
     playersUrl=getPlayersUrl(new_url)
 
-    filterByCountry(playersUrl)
+    lista_final=filterByCountry(playersUrl,df)
+
+    ##print(lista_final)
+    eq, equipo =team.split("/")
+    nombre_archivo = "Equipos/"+f"{equipo}.txt"
+    guardar_lista_en_archivo(lista_final, nombre_archivo)
 

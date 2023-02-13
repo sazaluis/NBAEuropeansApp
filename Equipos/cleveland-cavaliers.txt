@@ -1,0 +1,16 @@
+kevin-love: {'Santa Monica, CA', 'US'}
+donovan-mitchell: {'Greenwich, CT', 'NULL'}
+jarrett-allen: {'Round Rock, TX', 'US'}
+isaiah-mobley: {'Murrieta, CA', 'US'}
+dean-wade: {'Wichita, KS', 'US'}
+robin-lopez: {'North Hollywood, CA', 'NULL'}
+caris-levert: {'Pickerington, OH', 'US'}
+darius-garland: {'Gary, IN', 'US'}
+cedi-osman: {'Ohrid, Macedonia', 'NULL'}
+evan-mobley: {'Murrieta, CA', 'US'}
+isaac-okoro: {'Powder Springs, GA', 'US'}
+ricky-rubio: {'Barcelona, España', 'NULL'}
+raul-neto: {'Brasil', 'SA'}
+dylan-windler: {'Indianapolis, IN', 'US'}
+mamadi-diakite: {'Conakry, Guinea', 'AF'}
+lamar-stevens: {'Philadelphia, PC', 'NULL'}

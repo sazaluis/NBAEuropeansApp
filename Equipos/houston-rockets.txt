@@ -1,0 +1,18 @@
+john-wall: {'Raleigh, NC', 'US'}
+josh-christopher: {'Carson, CA', 'US'}
+jaesean-tate: {'Pickerington, OH', 'US'}
+justin-holiday: {'Chatsworth, CA', 'NULL'}
+tari-eason: {'Los Ángeles, CA', 'NULL'}
+kenyon-martin-jr: {'West Hills, CA', 'NULL'}
+frank-kaminsky: {'Lisle, IL', 'US'}
+kevin-porter-jr: {'Seattle, WA', 'US'}
+darius-days: {'Raleigh, FL', 'US'}
+usman-garuba: {'No data', 'NULL'}
+danny-green: {'North Babylon, NY', 'US'}
+trevor-hudgins: {'Manhattan, KS', 'US'}
+alperen-sengun: {'No data', 'NULL'}
+jabari-smith-jr: {'Fayetteville, GA', 'US'}
+tyty-washington-jr: {'Phoenix, AZ', 'US'}
+boban-marjanovic: {'Zajecar, Serbia', 'EU'}
+jalen-green: {'Merced, CA', 'US'}
+daishen-nix: {'Fairbanks, AK', 'US'}

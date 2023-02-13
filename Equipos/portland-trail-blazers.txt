@@ -1,0 +1,18 @@
+anfernee-simons: {'Altamonte Springs, FL', 'US'}
+john-butler-jr: {'Greenville, SC', 'US'}
+trendon-watford: {'Birmingham, AL', 'US'}
+cam-reddish: {'Norristown, PC', 'NULL'}
+drew-eubanks: {'Troutdale, OR', 'US'}
+keon-johnson: {'Shelbyville, TN', 'US'}
+matisse-thybulle: {'Issaquah, WA', 'US'}
+jusuf-nurkic: {'Tuzla, Bosnia & Herzegovina', 'NULL'}
+greg-brown-iii: {'Austin, TX', 'US'}
+justise-winslow: {'Houston, TX', 'US'}
+ryan-arcidiacono: {'Langhorne, PC', 'NULL'}
+kevin-knox-ii: {'Phoenix, AZ', 'US'}
+ibou-badji: {'No data', 'NULL'}
+nassir-little: {'Orange Park, FL', 'US'}
+jabari-walker: {'Inglewood, CA', 'US'}
+shaedon-sharpe: {'Londres, ON', 'NULL'}
+jerami-grant: {'Portland, OR', 'US'}
+damian-lillard: {'Oakland, CA', 'US'}
